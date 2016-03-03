@@ -120,6 +120,11 @@ For complete implementation checkout example folder.
 | style | object | null | Styles to be applied on 'Option' component |
 | styleText | object |  null | Styles to be applied on text inside of 'Option'  |
 
+##### OptionList:
+| Property | Type | Default | Description |
+|-----------|--------|---------|--------------------------------------------|
+| styleOptionContainer | object | null | Styles to be applied on container of 'Option' component |
+
 
 ## Demo
 <p align="center">
