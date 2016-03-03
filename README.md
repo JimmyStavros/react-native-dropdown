@@ -124,6 +124,7 @@ For complete implementation checkout example folder.
 | Property | Type | Default | Description |
 |-----------|--------|---------|--------------------------------------------|
 | styleOptionContainer | object | null | Styles to be applied on container of 'Option' component |
+| styleOptionList | object | null | Styles to be applied on container of all 'Option' components |
 
 
 ## Demo
